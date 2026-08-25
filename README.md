@@ -1,5 +1,4 @@
-# PCA and K-Means Clustering
-
+# PCA project with K-Means Clustering
 Analysis of a survey dataset using **Principal Component Analysis (PCA)** and **K-Means clustering**.
 
 The project covers data preprocessing and categorical feature encoding, analysis of feature variances, PCA-based dimensionality reduction, interpretation of principal components, and clustering of the resulting lower-dimensional representation.
